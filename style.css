@@ -1,0 +1,156 @@
+body {
+    font-family: Arial, sans-serif;
+    position: relative;
+    margin: 0%;
+
+}
+
+#logo {
+    height: 120px;
+    width: 120px;
+    margin-left: 25px;
+
+}
+
+.navbar {
+    background-color: white;
+    overflow: hidden;
+    height: 16vh;
+}
+
+.navbar a {
+    float: right;
+    color: #063f50;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.navbar a:hover {
+    background-color: #ddd;
+    color: #333;
+}
+
+
+.container {
+    position: absolute;
+    background-color: rgb(2, 2, 37);
+    height: 80vh;
+    top: 16vh;
+    width: 100%;
+    color: white;
+    text-align: center;
+}
+
+h3 {
+    font-size: 20px;
+    position: absolute;
+    top: 70px;
+    left: 80px;
+}
+
+h1 {
+    font-size: 50px;
+    position: absolute;
+    top: 130px;
+    left: 80px;
+    font-weight: bolder;
+}
+
+#mobile {
+    position: absolute;
+    height: 70vh;
+    width: 45vw;
+    left: 720px;
+    overflow: hidden;
+}
+
+pre {
+    color: white;
+    font-size: 20px;
+    font-weight: 80px;
+    position: absolute;
+    top: 400px;
+    left: 80px;
+}
+
+#d {
+    background-color: palevioletred;
+    font-size: 20x;
+    height: 35px;
+    width: 155px;
+    position: absolute;
+    top: 480px;
+    left: 80px;
+    color: white;
+}
+
+#c {
+    background-color: rgb(112, 114, 216);
+    font-size: 20x;
+    height: 35px;
+    width: 155px;
+    position: absolute;
+    top: 480px;
+    left: 260px;
+    color: white;
+}
+
+.Sec {
+    position: relative;
+    top: 600px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    width: 900;
+    height: 600px;
+    gap: 10px;
+}
+
+h2 {
+    color: blue;
+}
+
+p {
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#img1 {
+    background-color: aliceblue;
+}
+
+#img2 {
+    background-color: aliceblue;
+}
+
+#img3 {
+    background-color: aliceblue;
+}
+
+.cont {
+    color: white;
+    background-color: rgb(2, 2, 37);
+    position: relative;
+    top: 90vh;
+    height: 100vh;
+    width: 100%;
+}
+
+#h5 {
+    position: absolute;
+    top: 30px;
+    left: 80px;
+    font-size: 20px;
+    color: white;
+}
+
+#para {
+    color: white;
+    position: absolute;
+    top: 300px;
+    text-align: center;
+    font-size: 18px;
+    left: 80px;
+}
